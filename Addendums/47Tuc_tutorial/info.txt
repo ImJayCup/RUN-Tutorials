@@ -1,0 +1,3 @@
+Color-Magnitude Diagrams.ipynb - Background information on Color Magnitude Diagrams
+
+47Tuc.ipynb - Making a CMD of 47 Tuc, with links to further project ideas.
